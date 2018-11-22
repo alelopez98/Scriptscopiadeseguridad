@@ -6,5 +6,19 @@
 - Solución del script
 - Referencias
 
+### Presentación
 
-El script que vamos a enseñar permite al usuario copiar carpetas para en caso de perdida de la carpeta poder recuperarla.
+Buenas, Somos Alejandro López, Antonio Jesus Holguin y Jairo Verdugo, alumnos de 1ºASIR y hemos creado está pagina para subir las explicaciones de algunos scripts que hemos realizado.
+
+### Descripción del Script
+
+El script que vamos a enseñar permite al usuario copiar carpetas y archivos para en caso de perdida de la carpeta poder recuperarla , tambien al recuperar los archivos podemos hacer que sean solo lectura.
+
+### Solución del script
+
+
+### Referencias
+
+Las referencias que hemos usados son:
+
+[Comandos Powershell](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/add-type?view=powershell-6)
