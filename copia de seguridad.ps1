@@ -28,9 +28,18 @@ function get-copiaseguridad{
     #En esta función reside la tarea de copiar, pegar y convertir en solo lectura al archivo/carpeta.
     clear
     $ruta = read-host "Introduzca la ruta del archivo/carpeta"
-    $destino = read-host "Introduzca la ruta donde quiere guardar la copia"
-    Copy-Item -path $ruta -destination $destino -recurse
-    attrib +r $destino
+    $destino = read-host "Introduzca la ruta donde quiere guardar la copia" 
+    $extra = "\Copias de seguridad"
+    $rutafinal = $destino + $extra
+    new-item -path $rutafinal -itemtype directory
+    Copy-Item -path $ruta -destination $rutafinal -recurse
+    attrib +r $rutafinal
+    set-location $rutafinal
+    $interior = Get-ChildItem
+    foreach ($i in $interior)
+    {
+        attrib +r $i
+    }
     write-host "Copia completada" 
     write-host "1.- Crear otra copia"
     write-host "2.- Salir"
