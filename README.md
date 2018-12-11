@@ -15,7 +15,6 @@ Buenas, Somos Alejandro López, Antonio Jesus Holguin y Jairo Verdugo, alumnos d
 El script que vamos a enseñar permite al usuario copiar carpetas y archivos para en caso de perdida de la carpeta poder recuperarla , tambien al recuperar los archivos podemos hacer que sean solo lectura.
 
 ### Solución del script
-[Solucion](Scriptscopiadeseguridad.ps1)
 
 ### Referencias
 
