@@ -16,6 +16,9 @@ El script que vamos a enseñar permite al usuario copiar carpetas y archivos par
 
 ### Solución del script
 
+[Solución Script](https://github.com/alelopez98/Scriptscopiadeseguridad/blob/master/copia%20de%20seguridad.ps1)
+
+
 ### Referencias
 
 Las referencias que hemos usados son:
