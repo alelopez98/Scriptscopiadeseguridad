@@ -23,6 +23,7 @@ En el menú se nos preguntará que queremos hacer, teniendo la opción de ejecut
 Se añadirá una nueva carpeta al destino llamada "Copias de seguridad" donde se introducirá el archivo/carpeta. Además todo el contenido de dicha nueva carpeta se convertirá en solo lectura.
 
 Tras finalizar el script se preguntará al usuario si quiere hacer otra copia o quiere salir del script.
+
 [Solución Script](https://github.com/alelopez98/Scriptscopiadeseguridad/blob/master/copia%20de%20seguridad.ps1)
 
 
