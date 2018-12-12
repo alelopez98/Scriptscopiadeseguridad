@@ -3,5 +3,5 @@
 
 ### SecuroScripts: Nuestra Página Web
 
-[Click aquí para adceder](https://alelopezbetico.wixsite.com/misitio)
+[Click aquí para entrar](https://toniholguinmoreno.wixsite.com/securoscripts)
 
