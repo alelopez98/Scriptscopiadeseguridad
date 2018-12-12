@@ -50,7 +50,6 @@ function get-copiaseguridad{
            }
         '2' {
             write-host "Gracias por su visita"
-            read-host "Presione cualquier boton para salir"
             exit
             }
         default{
