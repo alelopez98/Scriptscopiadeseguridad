@@ -10,9 +10,9 @@
 
 Buenas, Somos Alejandro López, Antonio Jesus Holguin y Jairo Verdugo, alumnos de 1ºASIR y hemos creado está pagina para subir las explicaciones de algunos scripts que hemos realizado.
 
-### Página Web
+### Descripcion
 
-[Página Web](Script.html)
+El script que vamos a enseñar permite al usuario copiar carpetas y archivos para en caso de perdida de la carpeta poder recuperarla , tambien al recuperar los archivos podemos hacer que sean solo lectura.
 
 ### Solución del script
 
